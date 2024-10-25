@@ -1,0 +1,4 @@
+Resnet Predictions:74.00% PNEUMONIA DETECTED
+VGG Predictions:99.60% PNEUMONIA DETECTED
+Inception Predictions:100.00% PNEUMONIA DETECTED
+Xception Predictions:100.00% PNEUMONIA DETECTED
