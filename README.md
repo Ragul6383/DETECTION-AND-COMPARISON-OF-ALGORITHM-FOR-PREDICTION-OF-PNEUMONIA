@@ -1,7 +1,7 @@
 ## Output Screenshots
 
-![Model Screenshot](screenshots/model_screenshot.png)
+![Model Screenshot](Picture1.png)
 
 
-![Output Screenshot](screenshots/output_screenshot.png)
+![Output Screenshot](Picture2.png)
 
